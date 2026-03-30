@@ -6,9 +6,10 @@ I'm mostly an Android developer, but I'm constantly trying to learning other lan
 
 * Kotlin & Android — My go-to
 ### Currently Learning
-* I'm vibing with Claude Code to level up my skills in:
+
 * Java & Spring Boot — To learn BE
 * TypeScript & Node.js & React - To learn more about web
+* I'm vibing with Claude
 
 ## About Me
 
