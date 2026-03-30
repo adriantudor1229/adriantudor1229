@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hallo
 
-<!--
-**adriantudor1229/adriantudor1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm mostly an Android developer, but I'm constantly trying to learning other languages and frameworks.
 
-Here are some ideas to get you started:
+## Tools & Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Kotlin & Android — My go-to
+### Currently Learning
+* I'm vibing with Claude Code to level up my skills in:
+* Java & Spring Boot — To learn BE
+* TypeScript & Node.js & React - To learn more about web
+
+## About Me
+
+* Into anime and books — I recommend Lord Of The Mysteries
