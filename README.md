@@ -10,7 +10,3 @@ I'm mostly an Android developer, but I'm constantly trying to learning other lan
 * Java & Spring Boot — To learn BE
 * TypeScript & Node.js & React - To learn more about web
 * I'm vibing with Claude
-
-## About Me
-
-* Into anime and books — I recommend Lord Of The Mysteries
